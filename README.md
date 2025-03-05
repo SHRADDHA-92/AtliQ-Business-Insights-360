@@ -61,32 +61,32 @@ The dashboard comprises six pages-->
 
 ### Home Page: A landing page with buttons to navigate to different pages.
 
-https://github.com/SHRADDHA-92/AtliQ-Business-Insights-360/blob/main/home%20page.png
+![Home page](https://github.com/SHRADDHA-92/AtliQ-Business-Insights-360/blob/main/home%20page.png)
 
 
 ### Finance Page: Focuses on improving financial planning, budgeting processes, and cost control. Includes Profit and Loss statements, Top and Bottom Products and Customers by Net Sales, and more.
 
-https://github.com/SHRADDHA-92/AtliQ-Business-Insights-360/blob/main/Financeview.png
+![Finance view](https://github.com/SHRADDHA-92/AtliQ-Business-Insights-360/blob/main/Financeview.png)
 
 
 ### Sales Page: Aims to increase sales revenue and market share. Features Customer performance by Net Sales, Gross Margin, Gross Margin %, and more.
 
-https://github.com/SHRADDHA-92/AtliQ-Business-Insights-360/blob/main/Sales%20view.png
+![Sales view](https://github.com/SHRADDHA-92/AtliQ-Business-Insights-360/blob/main/Sales%20view.png)
 
 
 ### Marketing Page: Aims to increase brand visibility and customer engagement. Provides Segment Performance by Gross Margin% and Net Profit%, and more.
 
-https://github.com/SHRADDHA-92/AtliQ-Business-Insights-360/blob/main/Marketing%20view.png
+![Marketing view](https://github.com/SHRADDHA-92/AtliQ-Business-Insights-360/blob/main/Marketing%20view.png)
 
 
 ### Supply Chain Page: Aims to optimize inventory management and enhance supplier relationships for cost savings. Includes details about Forecast Accuracy, Net error, and more.
 
-https://github.com/SHRADDHA-92/AtliQ-Business-Insights-360/blob/main/Supply%20chain%20view.png
+![Supply chain view](https://github.com/SHRADDHA-92/AtliQ-Business-Insights-360/blob/main/Supply%20chain%20view.png)
 
 
 ### Executive Page: Provides an overview of the organization's performance for top management. Includes Net Sales, Gross Margin%, Net Profit%, Revenue Contribution by channel, Top 5 Customer and Product, Sub Region performance, and more.
 
-https://github.com/SHRADDHA-92/AtliQ-Business-Insights-360/blob/main/Executive%20view.png
+![Executive view](https://github.com/SHRADDHA-92/AtliQ-Business-Insights-360/blob/main/Executive%20view.png)
 
 
 ## Skills Learned:
