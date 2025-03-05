@@ -52,7 +52,7 @@ Data modeling is essential because it lays the foundation for reports. All visua
 In this project, we have followed the Snowflake schema data modeling method. 
 
 
-https://github.com/SHRADDHA-92/AtliQ-Business-Insights-360/blob/main/Data%20modelling.png
+![data modelling](https://github.com/SHRADDHA-92/AtliQ-Business-Insights-360/blob/main/Data%20modelling.png)
 
 
 ## Power BI Dashboard Overview:
